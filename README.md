@@ -4,7 +4,7 @@
 - 💞️ I’m looking to get into the games/film industry as a junior environment artist or junior environment tech artist!
 
 - 🖼 My portfolio: https://jaumeplaferriol.artstation.com/albums/2101779
-- 📫 How to reach me: https://twitter.com/Jaume_pla_f / https://www.artstation.com/jaumeplaferriol / jaume.pla.art@gmail.com
+- 📫 How to reach me: https://twitter.com/Jaume_pla_f / https://www.artstation.com/jaumeplaferriol / jaume.pla.art@gmail.com / jaumeplaf@gmail.com
 
 <!---
 jaumeplaf/jaumeplaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
