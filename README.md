@@ -1,5 +1,7 @@
 ⌨️ Technical Artist specializing in environments and graphics
 
+Currently learning graphics programming, right now making a WebGL2.0 renderer
+
 🖼 [Artstation](https://www.artstation.com/jaumeplaferriol)
 🐤 [Twitter](https://x.com/Jaume_p_f)
 🦋 [Bluesky](https://bsky.app/profile/jaumeplaf.bsky.social)
