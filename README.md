@@ -1,6 +1,6 @@
 ⌨️ Technical Artist specializing in environments and graphics
 
-Currently learning graphics programming, right now making a WebGL2.0 renderer https://github.com/jaumeplaf/wglEngine
+Currently learning graphics programming, right now learning WebGL2
 
 🖼 [Artstation](https://www.artstation.com/jaumeplaferriol)
 🐤 [Twitter](https://x.com/Jaume_p_f)
