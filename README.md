@@ -1,6 +1,6 @@
 ⌨️ Technical Artist specializing in environments and graphics
 
-Currently learning graphics programming, right now making a small game engine with Odin and OpenGL: https://github.com/jaumeplaf/OrionEngine
+Currently learning graphics programming, right now making a small game engine with Odin and OpenGL: [Orion engine](https://github.com/jaumeplaf/OrionEngine)
 
 🖼 [Artstation](https://www.artstation.com/jaumeplaferriol)
 🐤 [Twitter](https://x.com/Jaume_p_f)
