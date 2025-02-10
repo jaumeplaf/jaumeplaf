@@ -1,6 +1,6 @@
 ⌨️ Technical Artist specializing in environments and graphics
 
-Currently learning graphics programming, right now learning WebGL2
+Currently learning graphics programming, right now learning OpenGL and Odin lang: https://github.com/jaumeplaf/OrionEngine
 
 🖼 [Artstation](https://www.artstation.com/jaumeplaferriol)
 🐤 [Twitter](https://x.com/Jaume_p_f)
